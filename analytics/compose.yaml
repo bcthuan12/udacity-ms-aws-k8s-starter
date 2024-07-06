@@ -9,8 +9,9 @@
 # https://github.com/docker/awesome-compose
 services:
   server:
-    build:
-      context: .
+    # build:
+    #   context: .
+    image: bcthuan12/starter:v1
     ports:
       - 8000:5153
     environment:
