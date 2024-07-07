@@ -17,7 +17,7 @@ For this project, you are a DevOps engineer who will be collaborating with a tea
 
 #### Remote Resources
 
-1. AWS CodeBuild - build Docker images remotely
+1. AWS CodeBuild - build Docker images remotely with github repo
 2. AWS ECR - host Docker images
 3. Kubernetes Environment with AWS EKS - run applications in k8s
 4. AWS CloudWatch - monitor activity and logs in EKS
